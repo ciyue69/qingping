@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">清屏</string>
+    <string name="accessibility_service_description">清屏通过无障碍服务实时检测应用开屏界面的“跳过”控件并代为点击，同时在检测到无主动触摸的摇一摇跨应用广告跳转时自动触发返回并按应用统计拦截次数。数据仅保存在本地数据库。</string>
+</resources>
